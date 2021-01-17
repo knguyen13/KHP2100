@@ -1,2 +1,9 @@
 # KHP2100
-Interact with 4 LEDs through 3 mechanical switches. Custom PCB and firmware. Reprogrammable through ICSP.
+
+Description:
+Interact with 4 LEDs through 3 mechanical switches.
+
+Features:
+Custom PCB and firmware.
+Atmega328p Microcontroller.
+Reprogrammable through ICSP.
