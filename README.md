@@ -1,9 +1,8 @@
 # KHP2100
 
 Description:
-Interact with 4 LEDs through 3 mechanical switches.
+Interact with LEDs through mechanical switches.
 
-Features:
-Custom PCB and firmware.
-Atmega328p Microcontroller.
-Reprogrammable through ICSP.
+Features a 2-layer board with a 5V LDO regulator, atmega328p MCU, push-buttons, leds, and supporting components.
+Mode button with a hardware trigger(interrupt) to switch between different game modes. 
+ICSP connection to MCU for reprogrammability. 
